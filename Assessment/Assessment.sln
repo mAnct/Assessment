@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32014.148
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assessment 1", "Assessment 1\Assessment 1.csproj", "{0927623E-29D0-4D0E-99C2-010F92B45237}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assessment1x", "Assessment 1\Assessment1x.csproj", "{0927623E-29D0-4D0E-99C2-010F92B45237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assessment1", "Assessment1\Assessment1.csproj", "{E52FC52E-651D-433D-9AD5-9E9F30E9032F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0927623E-29D0-4D0E-99C2-010F92B45237}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0927623E-29D0-4D0E-99C2-010F92B45237}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0927623E-29D0-4D0E-99C2-010F92B45237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E52FC52E-651D-433D-9AD5-9E9F30E9032F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E52FC52E-651D-433D-9AD5-9E9F30E9032F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E52FC52E-651D-433D-9AD5-9E9F30E9032F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E52FC52E-651D-433D-9AD5-9E9F30E9032F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
